@@ -1,4 +1,4 @@
-package com.feriixu.EasyRaids;
+package dev.feriixu.EasyRaids;
 
 import org.bukkit.entity.Raider;
 import org.bukkit.event.EventHandler;

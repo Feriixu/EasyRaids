@@ -1,4 +1,4 @@
-package com.feriixu.EasyRaids;
+package dev.feriixu.EasyRaids;
 
 import org.bukkit.plugin.java.JavaPlugin;
 
